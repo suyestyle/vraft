@@ -8,3 +8,9 @@ env: NODE_ID=2
 ```shell script
 pip install grequests
 ```
+
+
+```
+export NODE_ID=1
+python3 app.py -p 5000
+```
